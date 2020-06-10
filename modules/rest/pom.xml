@@ -44,7 +44,7 @@
   <properties>
     <resteasy.version>2.3.6.Final</resteasy.version>
     <arquillian.version>1.0.1.Final</arquillian.version>
-    <weld.version>1.2.0.Beta1</weld.version>
+    <weld.version>2.2.8.Final</weld.version>
     <jboss.bom.version>1.0.0.M7</jboss.bom.version>
     <javaee6.spec.version>3.0.2.Final</javaee6.spec.version>
   </properties>
