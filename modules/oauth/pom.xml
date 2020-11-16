@@ -46,7 +46,7 @@
     <resteasy.version>2.3.6.Final</resteasy.version>
     <jboss.bom.version>1.0.0.M7</jboss.bom.version>
     <javaee6.spec.version>3.0.2.Final</javaee6.spec.version>
-    <jetty.version>8.1.9.v20130131</jetty.version>
+    <jetty.version>9.4.34.v20201102</jetty.version>
     <slf4j.version>1.6.1</slf4j.version>
   </properties>
 
